@@ -80,16 +80,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -173,16 +173,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -266,16 +266,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -359,16 +359,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -452,16 +452,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -545,16 +545,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -638,16 +638,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -732,16 +732,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -825,16 +825,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Blau",
-            "x-default": "Blue",
-            "en-GB": "Blue",
-            "en-US": "Blue",
-            "es": "Azul",
-            "fr": "Bleu",
-            "it": "Blu",
-            "ja": "ブルー",
-            "zh": "蓝色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -918,16 +918,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -1011,16 +1011,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -1104,16 +1104,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Blau",
-            "x-default": "Blue",
-            "en-GB": "Blue",
-            "en-US": "Blue",
-            "es": "Azul",
-            "fr": "Bleu",
-            "it": "Blu",
-            "ja": "ブルー",
-            "zh": "蓝色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -1197,16 +1197,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -1290,16 +1290,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -1384,16 +1384,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -1478,16 +1478,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -1571,16 +1571,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -1664,16 +1664,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -1757,16 +1757,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -1850,16 +1850,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Titan",
+            "x-default": "Titanium",
+            "en-GB": "Titanium",
+            "en-US": "Titanium",
+            "es": "Titanio",
+            "fr": "Titane",
+            "it": "Titanio",
+            "ja": "チタン",
+            "zh": "钛金属"
         }
     },
     {
@@ -1943,16 +1943,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -2036,16 +2036,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl und Gold",
+            "x-default": "Steel and Gold",
+            "en-GB": "Steel and Gold",
+            "en-US": "Steel and Gold",
+            "es": "Acero y oro",
+            "fr": "Acier et or",
+            "it": "Acciaio e oro",
+            "ja": "スティール＆ゴールド",
+            "zh": "精钢和黄金"
         }
     },
     {
@@ -2129,16 +2129,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -2222,16 +2222,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Blau",
-            "x-default": "Blue",
-            "en-GB": "Blue",
-            "en-US": "Blue",
-            "es": "Azul",
-            "fr": "Bleu",
-            "it": "Blu",
-            "ja": "ブルー",
-            "zh": "蓝色"
+        "straps": {
+            "de": "Leder",
+            "x-default": "Leather",
+            "en-GB": "Leather",
+            "en-US": "Leather",
+            "es": "Piel",
+            "fr": "Cuir",
+            "it": "Pelle",
+            "ja": "レザー",
+            "zh": "皮革"
         }
     },
     {
@@ -2316,16 +2316,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Blau",
-            "x-default": "Blue",
-            "en-GB": "Blue",
-            "en-US": "Blue",
-            "es": "Azul",
-            "fr": "Bleu",
-            "it": "Blu",
-            "ja": "ブルー",
-            "zh": "蓝色"
+        "straps": {
+            "de": "Stoff",
+            "x-default": "Fabric",
+            "en-GB": "Tissue",
+            "en-US": "Tissue",
+            "es": "Tela",
+            "fr": "Textile",
+            "it": "Tessuto",
+            "ja": "ティッシュ",
+            "zh": "织物"
         }
     },
     {
@@ -2409,16 +2409,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Stoff",
+            "x-default": "Fabric",
+            "en-GB": "Tissue",
+            "en-US": "Tissue",
+            "es": "Tela",
+            "fr": "Textile",
+            "it": "Tessuto",
+            "ja": "ティッシュ",
+            "zh": "织物"
         }
     },
     {
@@ -2501,16 +2501,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -2593,16 +2593,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Grün",
-            "x-default": "Green",
-            "en-GB": "Green",
-            "en-US": "Green",
-            "es": "Green",
-            "fr": "Vert",
-            "it": "Verde",
-            "ja": "グリーン",
-            "zh": "绿色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -2686,16 +2686,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk & Leder",
+            "x-default": "Rubber & Leather",
+            "en-GB": "Rubber & Leather",
+            "en-US": "Rubber & Leather",
+            "es": "Caucho y piel",
+            "fr": "Caoutchouc et cuir",
+            "it": "Caucciù e pelle",
+            "ja": "ラバー＆レザー",
+            "zh": "橡胶和皮革"
         }
     },
     {
@@ -2780,16 +2780,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk & Leder",
+            "x-default": "Rubber & Leather",
+            "en-GB": "Rubber & Leather",
+            "en-US": "Rubber & Leather",
+            "es": "Caucho y piel",
+            "fr": "Caoutchouc et cuir",
+            "it": "Caucciù e pelle",
+            "ja": "ラバー＆レザー",
+            "zh": "橡胶和皮革"
         }
     },
     {
@@ -2874,16 +2874,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Blau",
-            "x-default": "Blue",
-            "en-GB": "Blue",
-            "en-US": "Blue",
-            "es": "Azul",
-            "fr": "Bleu",
-            "it": "Blu",
-            "ja": "ブルー",
-            "zh": "蓝色"
+        "straps": {
+            "de": "Kautschuk & Leder",
+            "x-default": "Rubber & Leather",
+            "en-GB": "Rubber & Leather",
+            "en-US": "Rubber & Leather",
+            "es": "Caucho y piel",
+            "fr": "Caoutchouc et cuir",
+            "it": "Caucciù e pelle",
+            "ja": "ラバー＆レザー",
+            "zh": "橡胶和皮革"
         }
     },
     {
@@ -2967,16 +2967,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -3060,16 +3060,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Blau",
-            "x-default": "Blue",
-            "en-GB": "Blue",
-            "en-US": "Blue",
-            "es": "Azul",
-            "fr": "Bleu",
-            "it": "Blu",
-            "ja": "ブルー",
-            "zh": "蓝色"
+        "straps": {
+            "de": "Leder",
+            "x-default": "Leather",
+            "en-GB": "Leather",
+            "en-US": "Leather",
+            "es": "Piel",
+            "fr": "Cuir",
+            "it": "Pelle",
+            "ja": "レザー",
+            "zh": "皮革"
         }
     },
     {
@@ -3153,16 +3153,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Leder",
+            "x-default": "Leather",
+            "en-GB": "Leather",
+            "en-US": "Leather",
+            "es": "Piel",
+            "fr": "Cuir",
+            "it": "Pelle",
+            "ja": "レザー",
+            "zh": "皮革"
         }
     },
     {
@@ -3247,16 +3247,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Blau",
-            "x-default": "Blue",
-            "en-GB": "Blue",
-            "en-US": "Blue",
-            "es": "Azul",
-            "fr": "Bleu",
-            "it": "Blu",
-            "ja": "ブルー",
-            "zh": "蓝色"
+        "straps": {
+            "de": "Leder",
+            "x-default": "Leather",
+            "en-GB": "Leather",
+            "en-US": "Leather",
+            "es": "Piel",
+            "fr": "Cuir",
+            "it": "Pelle",
+            "ja": "レザー",
+            "zh": "皮革"
         }
     },
     {
@@ -3339,16 +3339,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Leder",
+            "x-default": "Leather",
+            "en-GB": "Leather",
+            "en-US": "Leather",
+            "es": "Piel",
+            "fr": "Cuir",
+            "it": "Pelle",
+            "ja": "レザー",
+            "zh": "皮革"
         }
     },
     {
@@ -3430,16 +3430,16 @@
             "ja": "トゥールビヨン クロノグラフ",
             "zh": "陀飞轮计时码表"
         },
-        "strapColors": {
-            "de": "Blau",
-            "x-default": "Blue",
-            "en-GB": "Blue",
-            "en-US": "Blue",
-            "es": "Azul",
-            "fr": "Bleu",
-            "it": "Blu",
-            "ja": "ブルー",
-            "zh": "蓝色"
+        "straps": {
+            "de": "Leder",
+            "x-default": "Leather",
+            "en-GB": "Leather",
+            "en-US": "Leather",
+            "es": "Piel",
+            "fr": "Cuir",
+            "it": "Pelle",
+            "ja": "レザー",
+            "zh": "皮革"
         }
     },
     {
@@ -3523,16 +3523,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Leder",
+            "x-default": "Leather",
+            "en-GB": "Leather",
+            "en-US": "Leather",
+            "es": "Piel",
+            "fr": "Cuir",
+            "it": "Pelle",
+            "ja": "レザー",
+            "zh": "皮革"
         }
     },
     {
@@ -3616,16 +3616,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -3709,16 +3709,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Grün",
-            "x-default": "Green",
-            "en-GB": "Green",
-            "en-US": "Green",
-            "es": "Green",
-            "fr": "Vert",
-            "it": "Verde",
-            "ja": "グリーン",
-            "zh": "绿色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -3802,16 +3802,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -3895,16 +3895,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Titan",
+            "x-default": "Titanium",
+            "en-GB": "Titanium",
+            "en-US": "Titanium",
+            "es": "Titanio",
+            "fr": "Titane",
+            "it": "Titanio",
+            "ja": "チタン",
+            "zh": "钛金属"
         }
     },
     {
@@ -3987,16 +3987,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -4080,16 +4080,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Plattiert",
+            "x-default": "Steel Plated",
+            "en-GB": "Plated",
+            "en-US": "Plated",
+            "es": "Chapado",
+            "fr": "Plaquée",
+            "it": "Placcato",
+            "ja": "プレート",
+            "zh": "镀层"
         }
     },
     {
@@ -4174,16 +4174,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Plattiert",
+            "x-default": "Steel Plated",
+            "en-GB": "Plated",
+            "en-US": "Plated",
+            "es": "Chapado",
+            "fr": "Plaquée",
+            "it": "Placcato",
+            "ja": "プレート",
+            "zh": "镀层"
         }
     },
     {
@@ -4267,16 +4267,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -4359,16 +4359,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -4452,16 +4452,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -4545,16 +4545,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -4638,16 +4638,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -4731,16 +4731,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -4824,16 +4824,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -4917,16 +4917,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -5011,16 +5011,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -5104,16 +5104,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -5197,16 +5197,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -5290,16 +5290,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Blau",
-            "x-default": "Blue",
-            "en-GB": "Blue",
-            "en-US": "Blue",
-            "es": "Azul",
-            "fr": "Bleu",
-            "it": "Blu",
-            "ja": "ブルー",
-            "zh": "蓝色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -5382,16 +5382,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -5476,16 +5476,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -5569,16 +5569,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Blau",
-            "x-default": "Blue",
-            "en-GB": "Blue",
-            "en-US": "Blue",
-            "es": "Azul",
-            "fr": "Bleu",
-            "it": "Blu",
-            "ja": "ブルー",
-            "zh": "蓝色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -5663,16 +5663,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Plattiert",
+            "x-default": "Steel Plated",
+            "en-GB": "Plated",
+            "en-US": "Plated",
+            "es": "Chapado",
+            "fr": "Plaquée",
+            "it": "Placcato",
+            "ja": "プレート",
+            "zh": "镀层"
         }
     },
     {
@@ -5756,16 +5756,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -5849,16 +5849,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -5942,16 +5942,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -6036,16 +6036,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Plattiert",
+            "x-default": "Steel Plated",
+            "en-GB": "Plated",
+            "en-US": "Plated",
+            "es": "Chapado",
+            "fr": "Plaquée",
+            "it": "Placcato",
+            "ja": "プレート",
+            "zh": "镀层"
         }
     },
     {
@@ -6130,16 +6130,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Plattiert",
+            "x-default": "Steel Plated",
+            "en-GB": "Plated",
+            "en-US": "Plated",
+            "es": "Chapado",
+            "fr": "Plaquée",
+            "it": "Placcato",
+            "ja": "プレート",
+            "zh": "镀层"
         }
     },
     {
@@ -6224,16 +6224,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -6318,16 +6318,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Braun",
-            "x-default": "Brown",
-            "en-GB": "Brown",
-            "en-US": "Brown",
-            "es": "Marrón",
-            "fr": "Brun",
-            "it": "Marrone",
-            "ja": "ブラウン",
-            "zh": "棕色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -6412,16 +6412,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -6506,16 +6506,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -6600,16 +6600,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -6694,16 +6694,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -6787,16 +6787,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -6880,16 +6880,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -6973,16 +6973,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -7066,16 +7066,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -7159,16 +7159,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -7252,16 +7252,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -7346,16 +7346,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -7439,16 +7439,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -7533,16 +7533,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -7628,16 +7628,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -7722,16 +7722,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -7816,16 +7816,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -7910,16 +7910,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -8004,16 +8004,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -8098,16 +8098,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -8192,16 +8192,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -8286,16 +8286,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -8379,16 +8379,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -8473,16 +8473,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -8567,16 +8567,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -8660,16 +8660,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -8753,16 +8753,16 @@
             "ja": "クォーツ ウォッチ",
             "zh": "石英腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -8847,16 +8847,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -8941,16 +8941,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -9034,16 +9034,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -9126,16 +9126,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -9219,16 +9219,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Gelb",
-            "x-default": "Yellow",
-            "en-GB": "Yellow",
-            "en-US": "Yellow",
-            "es": "Amarillo",
-            "fr": "Jaune",
-            "it": "Giallo",
-            "ja": "イエロー",
-            "zh": "黄色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -9312,16 +9312,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Rot",
-            "x-default": "Red",
-            "en-GB": "Red",
-            "en-US": "Red",
-            "es": "Rojo",
-            "fr": "Rouge",
-            "it": "Rosso",
-            "ja": "レッド",
-            "zh": "红色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -9405,16 +9405,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Grün",
-            "x-default": "Green",
-            "en-GB": "Green",
-            "en-US": "Green",
-            "es": "Green",
-            "fr": "Vert",
-            "it": "Verde",
-            "ja": "グリーン",
-            "zh": "绿色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -9498,16 +9498,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Braun",
-            "x-default": "Brown",
-            "en-GB": "Brown",
-            "en-US": "Brown",
-            "es": "Marrón",
-            "fr": "Brun",
-            "it": "Marrone",
-            "ja": "ブラウン",
-            "zh": "棕色"
+        "straps": {
+            "de": "Leder",
+            "x-default": "Leather",
+            "en-GB": "Leather",
+            "en-US": "Leather",
+            "es": "Piel",
+            "fr": "Cuir",
+            "it": "Pelle",
+            "ja": "レザー",
+            "zh": "皮革"
         }
     },
     {
@@ -9592,16 +9592,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Blau",
-            "x-default": "Blue",
-            "en-GB": "Blue",
-            "en-US": "Blue",
-            "es": "Azul",
-            "fr": "Bleu",
-            "it": "Blu",
-            "ja": "ブルー",
-            "zh": "蓝色"
+        "straps": {
+            "de": "Leder",
+            "x-default": "Leather",
+            "en-GB": "Leather",
+            "en-US": "Leather",
+            "es": "Piel",
+            "fr": "Cuir",
+            "it": "Pelle",
+            "ja": "レザー",
+            "zh": "皮革"
         }
     },
     {
@@ -9686,16 +9686,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -9780,16 +9780,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -9873,16 +9873,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -9966,16 +9966,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Blau",
-            "x-default": "Blue",
-            "en-GB": "Blue",
-            "en-US": "Blue",
-            "es": "Azul",
-            "fr": "Bleu",
-            "it": "Blu",
-            "ja": "ブルー",
-            "zh": "蓝色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -10059,16 +10059,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -10153,16 +10153,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -10247,16 +10247,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -10341,16 +10341,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -10436,16 +10436,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -10530,16 +10530,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Braun",
-            "x-default": "Brown",
-            "en-GB": "Brown",
-            "en-US": "Brown",
-            "es": "Marrón",
-            "fr": "Brun",
-            "it": "Marrone",
-            "ja": "ブラウン",
-            "zh": "棕色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -10623,16 +10623,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -10716,16 +10716,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -10809,16 +10809,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Leder",
+            "x-default": "Leather",
+            "en-GB": "Leather",
+            "en-US": "Leather",
+            "es": "Piel",
+            "fr": "Cuir",
+            "it": "Pelle",
+            "ja": "レザー",
+            "zh": "皮革"
         }
     },
     {
@@ -10902,16 +10902,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -10995,16 +10995,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -11089,16 +11089,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Leder",
+            "x-default": "Leather",
+            "en-GB": "Leather",
+            "en-US": "Leather",
+            "es": "Piel",
+            "fr": "Cuir",
+            "it": "Pelle",
+            "ja": "レザー",
+            "zh": "皮革"
         }
     },
     {
@@ -11183,16 +11183,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -11277,16 +11277,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Blau",
-            "x-default": "Blue",
-            "en-GB": "Blue",
-            "en-US": "Blue",
-            "es": "Azul",
-            "fr": "Bleu",
-            "it": "Blu",
-            "ja": "ブルー",
-            "zh": "蓝色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -11371,16 +11371,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -11465,16 +11465,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -11559,16 +11559,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -11652,16 +11652,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -11745,16 +11745,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Stahl und Keramik",
+            "x-default": "Steel and Ceramic",
+            "en-GB": "Steel and Ceramic",
+            "en-US": "Steel and Ceramic",
+            "es": "Acero y cerámica",
+            "fr": "Acier et céramique",
+            "it": "Acciaio e Ceramica",
+            "ja": "スティール＆セラミック",
+            "zh": "抛光精钢和陶瓷"
         }
     },
     {
@@ -11839,16 +11839,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -11933,16 +11933,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Leder",
+            "x-default": "Leather",
+            "en-GB": "Leather",
+            "en-US": "Leather",
+            "es": "Piel",
+            "fr": "Cuir",
+            "it": "Pelle",
+            "ja": "レザー",
+            "zh": "皮革"
         }
     },
     {
@@ -12027,16 +12027,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -12121,16 +12121,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -12215,16 +12215,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Stahl und Keramik",
+            "x-default": "Steel and Ceramic",
+            "en-GB": "Steel and Ceramic",
+            "en-US": "Steel and Ceramic",
+            "es": "Acero y cerámica",
+            "fr": "Acier et céramique",
+            "it": "Acciaio e Ceramica",
+            "ja": "スティール＆セラミック",
+            "zh": "抛光精钢和陶瓷"
         }
     },
     {
@@ -12308,16 +12308,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -12402,16 +12402,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -12496,16 +12496,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Blau",
-            "x-default": "Blue",
-            "en-GB": "Blue",
-            "en-US": "Blue",
-            "es": "Azul",
-            "fr": "Bleu",
-            "it": "Blu",
-            "ja": "ブルー",
-            "zh": "蓝色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -12589,16 +12589,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Stahl und Keramik",
+            "x-default": "Steel and Ceramic",
+            "en-GB": "Steel and Ceramic",
+            "en-US": "Steel and Ceramic",
+            "es": "Acero y cerámica",
+            "fr": "Acier et céramique",
+            "it": "Acciaio e Ceramica",
+            "ja": "スティール＆セラミック",
+            "zh": "抛光精钢和陶瓷"
         }
     },
     {
@@ -12682,16 +12682,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -12775,16 +12775,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -12868,16 +12868,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -12961,16 +12961,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -13054,16 +13054,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Blau",
-            "x-default": "Blue",
-            "en-GB": "Blue",
-            "en-US": "Blue",
-            "es": "Azul",
-            "fr": "Bleu",
-            "it": "Blu",
-            "ja": "ブルー",
-            "zh": "蓝色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -13147,16 +13147,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -13241,16 +13241,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Plattiert",
+            "x-default": "Steel Plated",
+            "en-GB": "Plated",
+            "en-US": "Plated",
+            "es": "Chapado",
+            "fr": "Plaquée",
+            "it": "Placcato",
+            "ja": "プレート",
+            "zh": "镀层"
         }
     },
     {
@@ -13334,16 +13334,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -13427,16 +13427,16 @@
             "ja": "自動巻ウォッチ",
             "zh": "自动上链腕表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Titan",
+            "x-default": "Titanium",
+            "en-GB": "Titanium",
+            "en-US": "Titanium",
+            "es": "Titanio",
+            "fr": "Titane",
+            "it": "Titanio",
+            "ja": "チタン",
+            "zh": "钛金属"
         }
     },
     {
@@ -13518,16 +13518,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Orange",
-            "x-default": "Orange",
-            "en-GB": "Orange",
-            "en-US": "Orange",
-            "es": "Naranja",
-            "fr": "Orange",
-            "it": "Arancione",
-            "ja": "オレンジ",
-            "zh": "橙色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -13611,16 +13611,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -13704,16 +13704,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -13798,16 +13798,16 @@
             "ja": "トゥールビヨン クロノグラフ",
             "zh": "陀飞轮计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -13892,16 +13892,16 @@
             "ja": "トゥールビヨン クロノグラフ",
             "zh": "陀飞轮计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk & Alligatorleder",
+            "x-default": "Rubber & Alligator",
+            "en-GB": "Rubber & Alligator",
+            "en-US": "Rubber & Alligator",
+            "es": "Caucho y piel de cocodrilo",
+            "fr": "Caoutchouc et alligator",
+            "it": "Caucciù e alligatore",
+            "ja": "ラバー＆アリゲーター",
+            "zh": "橡胶和鳄鱼皮"
         }
     },
     {
@@ -13986,16 +13986,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -14080,16 +14080,16 @@
             "ja": "トゥールビヨン クロノグラフ",
             "zh": "陀飞轮计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk & Alligatorleder",
+            "x-default": "Rubber & Alligator",
+            "en-GB": "Rubber & Alligator",
+            "en-US": "Rubber & Alligator",
+            "es": "Caucho y piel de cocodrilo",
+            "fr": "Caoutchouc et alligator",
+            "it": "Caucciù e alligatore",
+            "ja": "ラバー＆アリゲーター",
+            "zh": "橡胶和鳄鱼皮"
         }
     },
     {
@@ -14174,16 +14174,16 @@
             "ja": "トゥールビヨン クロノグラフ",
             "zh": "陀飞轮计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Keramik",
+            "x-default": "Ceramic",
+            "en-GB": "Ceramic",
+            "en-US": "Ceramic",
+            "es": "Cerámica",
+            "fr": "Céramique",
+            "it": "Ceramica",
+            "ja": "セラミック",
+            "zh": "陶瓷"
         }
     },
     {
@@ -14268,16 +14268,16 @@
             "ja": "トゥールビヨン クロノグラフ",
             "zh": "陀飞轮计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk & Alligatorleder",
+            "x-default": "Rubber & Alligator",
+            "en-GB": "Rubber & Alligator",
+            "en-US": "Rubber & Alligator",
+            "es": "Caucho y piel de cocodrilo",
+            "fr": "Caoutchouc et alligator",
+            "it": "Caucciù e alligatore",
+            "ja": "ラバー＆アリゲーター",
+            "zh": "橡胶和鳄鱼皮"
         }
     },
     {
@@ -14361,16 +14361,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -14455,16 +14455,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Braun",
-            "x-default": "Brown",
-            "en-GB": "Brown",
-            "en-US": "Brown",
-            "es": "Marrón",
-            "fr": "Brun",
-            "it": "Marrone",
-            "ja": "ブラウン",
-            "zh": "棕色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -14549,16 +14549,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -14643,16 +14643,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -14737,16 +14737,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Alligatorleder",
+            "x-default": "Alligator",
+            "en-GB": "Alligator Leather",
+            "en-US": "Alligator Leather",
+            "es": "Piel de cocodrilo",
+            "fr": "Cuir d'alligator",
+            "it": "Pelle di alligatore",
+            "ja": "アリゲーターレザー",
+            "zh": "鳄鱼皮"
         }
     },
     {
@@ -14830,16 +14830,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Stahl und Keramik",
+            "x-default": "Steel and Ceramic",
+            "en-GB": "Steel and Ceramic",
+            "en-US": "Steel and Ceramic",
+            "es": "Acero y cerámica",
+            "fr": "Acier et céramique",
+            "it": "Acciaio e Ceramica",
+            "ja": "スティール＆セラミック",
+            "zh": "抛光精钢和陶瓷"
         }
     },
     {
@@ -14923,16 +14923,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -15016,16 +15016,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -15110,16 +15110,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk & Alligatorleder",
+            "x-default": "Rubber & Alligator",
+            "en-GB": "Rubber & Alligator",
+            "en-US": "Rubber & Alligator",
+            "es": "Caucho y piel de cocodrilo",
+            "fr": "Caoutchouc et alligator",
+            "it": "Caucciù e alligatore",
+            "ja": "ラバー＆アリゲーター",
+            "zh": "橡胶和鳄鱼皮"
         }
     },
     {
@@ -15204,16 +15204,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Schwarz",
-            "x-default": "Black",
-            "en-GB": "Black",
-            "en-US": "Black",
-            "es": "Negro",
-            "fr": "Noir",
-            "it": "Nero",
-            "ja": "ブラック",
-            "zh": "黑色"
+        "straps": {
+            "de": "Kautschuk",
+            "x-default": "Rubber",
+            "en-GB": "Rubber",
+            "en-US": "Rubber",
+            "es": "Caucho",
+            "fr": "Caoutchouc",
+            "it": "Caucciù",
+            "ja": "ラバー",
+            "zh": "橡胶"
         }
     },
     {
@@ -15298,16 +15298,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -15392,16 +15392,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -15486,16 +15486,16 @@
             "ja": "自動巻クロノグラフ",
             "zh": "自动上链计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     },
     {
@@ -15580,16 +15580,16 @@
             "ja": "クォーツ クロノグラフ",
             "zh": "石英计时码表"
         },
-        "strapColors": {
-            "de": "Keine Farbe",
-            "x-default": "No Color",
-            "en-GB": "No Colour",
-            "en-US": "No Color",
-            "es": "Sin color",
-            "fr": "Sans couleur",
-            "it": "Incolore",
-            "ja": "カラーなし",
-            "zh": "无色"
+        "straps": {
+            "de": "Edelstahl",
+            "x-default": "Steel",
+            "en-GB": "Steel",
+            "en-US": "Steel",
+            "es": "Acero",
+            "fr": "Acier",
+            "it": "Acciaio",
+            "ja": "スティール製",
+            "zh": "精钢"
         }
     }
 ]

@@ -187,9 +187,10 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 										return acc;
 									}, {}) || {};
 
-								let strapColors = elm["custom-attributes"] && elm["custom-attributes"][0] && elm["custom-attributes"][0]["custom-attribute"]
+
+								let straps = elm["custom-attributes"] && elm["custom-attributes"][0] && elm["custom-attributes"][0]["custom-attribute"]
 									.filter((el) => {
-										return el["$"] && el["$"]["attribute-id"] && el["$"]["attribute-id"] === "ATT_STRAP_COLOR_LABEL" && el["$"]["xml:lang"];
+										return el["$"] && el["$"]["attribute-id"] && el["$"]["attribute-id"] === "ATT_STRAP_MATERIAL_LABEL" && el["$"]["xml:lang"];
 									}).reduce((acc, el) => {
 										const key = el["$"] && el["$"]["xml:lang"] || "";
 										value = el["_"] || "";
@@ -204,7 +205,7 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 								size = size[0] && size[0]["_"] || "";
 								console.log(size)
 
-								return { id, images, names, materials, colorCode, colors, movements, strapColors, size };
+								return { id, images, names, materials, colorCode, colors, movements, size, straps };
 							})
 
 						//merge the product data and the price data
@@ -236,11 +237,6 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 								}) && finalProductData.find((el) => {
 									return el.id === id
 								}).movements || {};
-								let strapColors = finalProductData.find((el) => {
-									return el.id === id
-								}) && finalProductData.find((el) => {
-									return el.id === id
-								}).strapColors || {};
 								let colorCode = finalProductData.find((el) => {
 									return el.id === id
 								}) && finalProductData.find((el) => {
@@ -251,7 +247,12 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 								}) && finalProductData.find((el) => {
 									return el.id === id
 								}).size || "";
-								return { ...elm, names, images, materials, colorCode, colors, movements, strapColors, size };
+								let straps = finalProductData.find((el) => {
+									return el.id === id
+								}) && finalProductData.find((el) => {
+									return el.id === id
+								}).straps || {};
+								return { ...elm, names, images, materials, colorCode, colors, movements, size, straps };
 
 							})
 							.map((elm) => {
@@ -268,7 +269,7 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 							.map((elm) => {
 								//remove the full object if colorCode === "";
 								//remove the full object if colors === {};
-								//remove the full object if strapColors === {};
+								//remove the full object if strap === {};
 								//remove the full object if materials === {};
 								//remove the full object if movements === {};
 								//remove the full object if names === {};
@@ -276,8 +277,8 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 								//remove the full object if size === "";
 								//remove the full object if prices === []
 
-								let { colorCode, colors, strapColors, materials, movements, names, images, size, prices, ...rest } = elm;
-								if (colorCode === "" || Object.keys(colors).length === 0 || Object.keys(strapColors).length === 0 || Object.keys(materials).length === 0 || Object.keys(movements).length === 0 || Object.keys(names).length === 0 || images.length === 0 || size === "" || prices.length === 0) {
+								let { colorCode, colors, materials, movements, names, images, size, prices, straps, ...rest } = elm;
+								if (colorCode === "" || Object.keys(colors).length === 0 || Object.keys(materials).length === 0 || Object.keys(movements).length === 0 || Object.keys(names).length === 0 || images.length === 0 || size === "" || prices.length === 0 || Object.keys(straps).length === 0) {
 									return null;
 								}
 								else {
@@ -296,7 +297,7 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 										newPrices[key] = prices[key];
 									}
 								});
-								//only keep the name from names, martial from materials, color from colors, movement from movements and strapColor from strapColors that are in the acceptedLanguage array
+								//only keep the name from names, martial from materials, color from colors, movement from movements and strapColor from strap that are in the acceptedLanguage array
 								let names = elm.names;
 								let newNames = {};
 								Object.keys(names).forEach((key) => {
@@ -329,15 +330,15 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 									}
 								});
 
-								let strapColors = elm.strapColors;
-								let newStrapColors = {};
-								Object.keys(strapColors).forEach((key) => {
+								let straps = elm.straps;
+								let newStrap = {};
+								Object.keys(straps).forEach((key) => {
 									if (acceptedLanguage.includes(key)) {
-										newStrapColors[key] = strapColors[key];
+										newStrap[key] = straps[key];
 									}
 								});
 
-								return { ...elm, names: newNames, materials: newMaterials, colors: newColors, movements: newMovements, strapColors: newStrapColors, prices: newPrices };
+								return { ...elm, names: newNames, materials: newMaterials, colors: newColors, movements: newMovements, prices: newPrices, straps: newStrap };
 							}).map((elm) => {
 								//color name for which color name is "No name". 
 								const colorCodeForNoName = [
