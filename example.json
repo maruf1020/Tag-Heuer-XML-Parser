@@ -1,0 +1,62 @@
+{
+    "emails": {
+        "email": [
+            {
+                "to": [
+                    "Vimal"
+                ],
+                "from": [
+                    "Sonoo"
+                ],
+                "heading": [
+                    "Hello"
+                ],
+                "body": [
+                    "Hello brother, how are you!"
+                ]
+            },
+            {
+                "to": [
+                    "Peter"
+                ],
+                "from": [
+                    "Jack"
+                ],
+                "heading": [
+                    "Birth day wish"
+                ],
+                "body": [
+                    "Happy birth day Tom!"
+                ]
+            },
+            {
+                "to": [
+                    "James"
+                ],
+                "from": [
+                    "Jaclin"
+                ],
+                "heading": [
+                    "Morning walk"
+                ],
+                "body": [
+                    "Please start morning walk to stay fit!"
+                ]
+            },
+            {
+                "to": [
+                    "Kartik"
+                ],
+                "from": [
+                    "Kumar"
+                ],
+                "heading": [
+                    "Health Tips"
+                ],
+                "body": [
+                    "Smoking is injurious to health!"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,2144 @@
+[
+    {
+      "id": "WBP201D.FT6197",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Watch",
+      "size": "43 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "WBN2313.BA0001",
+      "material": "Steel",
+      "colorCode": "#f161ac",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBC1316.BA0600",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "32 mm",
+      "name": "TAG Heuer Link"
+    },
+    {
+      "id": "CBE511A.FC8279",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "42 mm",
+      "name": "TAG Heuer Autavia"
+    },
+    {
+      "id": "CAW211P.FC6356",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Monaco"
+    },
+    {
+      "id": "CBL2180.FC6497",
+      "material": "Titanium",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Monaco"
+    },
+    {
+      "id": "WBP2415.BA0622",
+      "material": "Steel",
+      "colorCode": "#6ca927",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "30 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "WAR201D.BA0723",
+      "material": "Steel",
+      "colorCode": "#e0c133",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBC2112.BA0603",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Link"
+    },
+    {
+      "id": "WBN2015.EB0283",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBJ1416.BA0664",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "32 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WBP2115.BA0627",
+      "material": "Steel",
+      "colorCode": "#6ca927",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "CAZ5080.FC6517",
+      "material": "Titanium",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Chronograph Tourbillon",
+      "size": "44 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "CAZ101AT.BA0842",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "CBN2014.EB0240",
+      "material": "Steel",
+      "colorCode": "#6ca927",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "42 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBP201C.BA0632",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "43 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WBN2113.BA0639",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "39 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBN2310.BA0001",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBP2450.FT6215",
+      "material": "Steel and Gold",
+      "colorCode": "#009de2",
+      "color": "Blue",
+      "movement": "Automatic Watch",
+      "size": "30 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "WBP2451.FT6200",
+      "material": "Steel and Gold",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Watch",
+      "size": "30 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "CBS2213.FN6002",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "Blue",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CV201AP.FC6429",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WAR201C.BA0723",
+      "material": "Steel",
+      "colorCode": "#e0c133",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBN2410.BA0621",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "29 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBP1451.BA0622",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "30 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "WAZ1112.BA0875",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WBJ141A.BA0664",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "32 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "CAZ1014.BA0842",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WBP231J.BA0618",
+      "material": "Steel",
+      "colorCode": "#f161ac",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "WAY131C.BA0913",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "35 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "CAR5A8Y.FC6377",
+      "material": "Titanium & Ceramic",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Chronograph Tourbillon",
+      "size": "45 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBK1316.BA0652",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBN2013.FC6503",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBD1322.BB0320",
+      "material": "Steel",
+      "colorCode": "#e0c133",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "32 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "CAZ101AJ.FC6487",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "CBK2112.BA0715",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAZ1010.FT8024",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1    "
+    },
+    {
+      "id": "CBK2110.BA0715",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBP1417.BA0622",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "30 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "CBN2016.EB0275",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "White",
+      "movement": "Automatic Chronograph",
+      "size": "42 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBK1318.FC8258",
+      "material": "Steel",
+      "colorCode": "#9a5723",
+      "color": "Brown",
+      "movement": "Quartz Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBM2110.BA0651",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBN2044.FC8313",
+      "material": "Gold 3N",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "42 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBG2051.FC6426",
+      "material": "Steel and Gold",
+      "colorCode": "#e0c133",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBN2A5A.FC6481",
+      "material": "Steel, Gold & Ceramic",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBN2111.BA0639",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "39 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBP231K.BA0618",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WAR211B.BA0782",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "39 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAW218C.FC6548",
+      "material": "Titanium",
+      "colorCode": "#009de2",
+      "color": "Blue",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Monaco"
+    },
+    {
+      "id": "CBP1112.BA0627",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WBC1311.BA0600",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "32 mm",
+      "name": "TAG Heuer Link"
+    },
+    {
+      "id": "WBP201B.FT6198",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "Blue",
+      "movement": "Automatic Watch",
+      "size": "43 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "CAR5A90.BH0742",
+      "material": "Ceramic",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Chronograph Tourbillon",
+      "size": "45 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBN2A1A.BA0643",
+      "material": "Steel & Ceramic",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBD2111.BA0928",
+      "material": "Steel",
+      "colorCode": "#ffffff",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WAY201S.BA0927",
+      "material": "Steel Alu",
+      "colorCode": "#6ca927",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "43 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WBP2410.BA0622",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "30 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WBN2312.BA0001",
+      "material": "Steel",
+      "colorCode": "#6ca927",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WAR201B.BA0723",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBD1420.BB0321",
+      "material": "Steel",
+      "colorCode": "#e0c133",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "27 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "CBK221G.FC6479",
+      "material": "Steel",
+      "colorCode": "#e22121",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "CBG2A90.FT6173",
+      "material": "Ceramic",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "45 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBN2011.FC6484",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "Brown",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "CBE511B.FC8279",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "42 mm",
+      "name": "TAG Heuer Autavia "
+    },
+    {
+      "id": "WAZ1110.FT8023",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Quartz Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WBP2111.BA0627",
+      "material": "Steel",
+      "colorCode": "#172483",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WAR2419.BA0776",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "28 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBC2110.BA0603",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Link"
+    },
+    {
+      "id": "CBP1111.BA0627",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WBP1416.BA0622",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "30 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "CBL2184.FT6236",
+      "material": "Titanium",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Monaco "
+    },
+    {
+      "id": "WBN201A.BA0640",
+      "material": "Steel",
+      "colorCode": "#172483",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "CBL2111.FC6453",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "Blue",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Monaco"
+    },
+    {
+      "id": "WAR2413.BA0776",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "28 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBK2311.FC8258",
+      "material": "Steel",
+      "colorCode": "#9a5723",
+      "color": "Brown",
+      "movement": "Automatic Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WAZ111A.BA0875",
+      "material": "Steel",
+      "colorCode": "#e0c133",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WBP1411.BA0622",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "30 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "WBN2311.BA0001",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "CAZ101V.BA0842",
+      "material": "Steel Alu",
+      "colorCode": "#e22121",
+      "color": "No Color",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "CBG2A1Z.BA0658",
+      "material": "Steel & Ceramic",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "45 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CV201AR.BA0715",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAR5A8AF.FC6415",
+      "material": "Titanium Carbon",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Chronograph Tourbillon",
+      "size": "45 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBP2150.FT6210",
+      "material": "Steel and Gold",
+      "colorCode": "#009de2",
+      "color": "Blue",
+      "movement": "Automatic Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "WBP1114.BA0000",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WBK2316.FC8258",
+      "material": "Steel",
+      "colorCode": "#9a5723",
+      "color": "Brown",
+      "movement": "Automatic Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBP2010.BA0632",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "43 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "WAZ2011.BA0843",
+      "material": "Steel & Ceramic",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WAR201E.BA0723",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBN2A1H.FC6512",
+      "material": "Steel & Ceramic",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Carrera x Porsche"
+    },
+    {
+      "id": "WAZ1110.BA0875",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "CBS2210.FC6534",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBD1422.BB0321",
+      "material": "Steel",
+      "colorCode": "#e0c133",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "27 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WAR211A.BA0782",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "39 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBN2A1B.BA0643",
+      "material": "Steel & Ceramic",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBN2A1N.FT6238",
+      "material": "Steel & Ceramic",
+      "colorCode": "#6ca927",
+      "color": "Green",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBL2183.FT6236",
+      "material": "Titanium",
+      "colorCode": "#9a9a9a",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Monaco "
+    },
+    {
+      "id": "WBC131G.BA0649",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "32 mm",
+      "name": "TAG Heuer Link"
+    },
+    {
+      "id": "WBC1313.BA0600",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "32 mm",
+      "name": "TAG Heuer Link"
+    },
+    {
+      "id": "WBN2413.BA0621",
+      "material": "Steel",
+      "colorCode": "#172483",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "29 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBC131F.BA0649",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "32 mm",
+      "name": "TAG Heuer Link"
+    },
+    {
+      "id": "WBP1415.BA0622",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "30 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "WBN2111.FC6505",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "Black",
+      "movement": "Automatic Watch",
+      "size": "39 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "CAY1110.BA0927",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WBN2412.BA0621",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "29 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAR5A5U.FC6377",
+      "material": "Titanium & Gold",
+      "colorCode": "#e0c133",
+      "color": "Black",
+      "movement": "Chronograph Tourbillon",
+      "size": "45 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAR201W.FT6095",
+      "material": "Steel & Ceramic",
+      "colorCode": "",
+      "color": "Grey",
+      "movement": "MSP30024",
+      "size": "43 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAR201Z.BA0714",
+      "material": "Steel & Ceramic",
+      "colorCode": "",
+      "color": "No Color",
+      "movement": "MSP30024",
+      "size": "43 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBN2450.BD0569",
+      "material": "Steel and Gold",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "29 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "CAZ1011.BA0842",
+      "material": "Steel & Ceramic",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WAY131K.BA0748",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "35 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WAR211C.BA0782",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "39 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WAZ1010.BA0842",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "CAZ101AL.FT8052",
+      "material": "Steel",
+      "colorCode": "#172483",
+      "color": "Blue",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WBK1316.FC8258",
+      "material": "Steel",
+      "colorCode": "#9a5723",
+      "color": "Brown",
+      "movement": "Quartz Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAZ101AK.BA0842",
+      "material": "Steel",
+      "colorCode": "#172483",
+      "color": "No Color",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "CAZ1014.FT8028",
+      "material": "Steel",
+      "colorCode": "#f48406",
+      "color": "Orange",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "CAW211J.FC6476",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Monaco "
+    },
+    {
+      "id": "CAZ101AL.BA0842",
+      "material": "Steel",
+      "colorCode": "#172483",
+      "color": "No Color",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1 "
+    },
+    {
+      "id": "WAY211C.BA0928",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WBN2110.BA0639",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "39 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBP2114.BA0627",
+      "material": "Steel",
+      "colorCode": "#e22121",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "CBG2A51.FC6450",
+      "material": "Steel and Gold",
+      "colorCode": "#e0c133",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "45 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBN2451.BD0567",
+      "material": "Steel and Gold",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "29 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBK1312.FC8259",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "Blue",
+      "movement": "Quartz Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBN201D.FC6543",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "Blue",
+      "movement": "Automatic Chronograph",
+      "size": "42 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "CAR5A81.FC6377",
+      "material": "Titanium",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Chronograph Tourbillon",
+      "size": "45 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAR201U.FC6405",
+      "material": "Steel & Ceramic",
+      "colorCode": "",
+      "color": "Brown",
+      "movement": "MSP30023",
+      "size": "43 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAZ1011.BA0843",
+      "material": "Steel & Ceramic",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "CAR201U.BA0766",
+      "material": "Steel & Ceramic",
+      "colorCode": "",
+      "color": "No Color",
+      "movement": "MSP30023",
+      "size": "43 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBP1418.BA0622",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "30 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "CAR5A8W.FT6071",
+      "material": "Titanium Carbon",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Chronograph Tourbillon",
+      "size": "45 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAR201V.BA0714",
+      "material": "Steel & Ceramic",
+      "colorCode": "",
+      "color": "No Color",
+      "movement": "MSP30023",
+      "size": "43 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBK1313.FC8260",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Grey",
+      "movement": "Quartz Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WAY1396.BH0717",
+      "material": "Ceramic",
+      "colorCode": "",
+      "color": "White",
+      "movement": "Quartz Watch",
+      "size": "35 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "CAR5A90.FC6415",
+      "material": "Ceramic",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Chronograph Tourbillon",
+      "size": "45 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBN2010.BA0640",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBK1316.FC8261",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "Purple",
+      "movement": "Quartz Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBN2A1AA.BA0643",
+      "material": "Steel & Ceramic",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBS2212.FC6535",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "Blue",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBP201B.BA0632",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "43 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "CBN2A1AA.FT6228",
+      "material": "Steel & Ceramic",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBP231C.BA0626",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "CBG2090.FT6145",
+      "material": "Steel & Ceramic",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAR201W.FT6122",
+      "material": "Steel & Ceramic",
+      "colorCode": "",
+      "color": "Brown",
+      "movement": "MSP30024",
+      "size": "43 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAR201Z.FT6046",
+      "material": "Steel & Ceramic",
+      "colorCode": "",
+      "color": "Black",
+      "movement": "MSP30024",
+      "size": "43 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAR201T.BA0766",
+      "material": "Steel & Ceramic",
+      "colorCode": "",
+      "color": "No Color",
+      "movement": "MSP30023",
+      "size": "43 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAZ1014.FC8196",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "Blue and Orange",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WBP5150.FT6199",
+      "material": "18K 5N Solid Rose Gold",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "WBP201A.BA0632",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "43 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "CAZ2012.BA0876",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "CBN2045.FC8316",
+      "material": "Gold 5N",
+      "colorCode": "#e22121",
+      "color": "Red",
+      "movement": "Automatic Chronograph",
+      "size": "42 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBK1311.FC8261",
+      "material": "Steel",
+      "colorCode": "#66348e",
+      "color": "Purple",
+      "movement": "Quartz Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBP1180.BF0000",
+      "material": "Titanium",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "CBN2011.BA0642",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "42 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBP231B.BA0618",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WBP1410.BA0622",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "30 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "CAZ1010.BA0842",
+      "material": "Steel",
+      "colorCode": "#00FF00",
+      "color": "No Color",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1     "
+    },
+    {
+      "id": "CBN2A1L.FC6521",
+      "material": "Steel & Ceramic",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBP208B.BF0631",
+      "material": "Titanium",
+      "colorCode": "#6ca927",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "43 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WBP231G.FT6226",
+      "material": "Steel",
+      "colorCode": "#6ca927",
+      "color": "Green",
+      "movement": "Automatic Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "CAR201W.BA0714",
+      "material": "Steel & Ceramic",
+      "colorCode": "",
+      "color": "No Color",
+      "movement": "MSP30024",
+      "size": "43 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBP5152.FT6210",
+      "material": "18K 3N Solid Yellow Gold",
+      "colorCode": "#009de2",
+      "color": "Blue",
+      "movement": "Automatic Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "CAZ2012.BA0970",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WBP5A8A.BF0619",
+      "material": "Titanium",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "45 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "WBN2112.FC6504",
+      "material": "Steel",
+      "colorCode": "#172483",
+      "color": "Blue",
+      "movement": "Automatic Watch",
+      "size": "39 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "CBE511C.FC8280",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "42 mm",
+      "name": "TAG Heuer Autavia"
+    },
+    {
+      "id": "CBG2090.BH0661",
+      "material": "Steel & Ceramic",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBP1110.BA0627",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "WBK1312.BA0652",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAZ101AP.FT8056",
+      "material": "Steel",
+      "colorCode": "#6ca927",
+      "color": "Green",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WBD1423.BB0321",
+      "material": "Steel",
+      "colorCode": "#e0c133",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "27 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "CAY2110.BA0927",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WBP231D.BA0626",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WAZ2011.BA0842",
+      "material": "Steel & Ceramic",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WBK1311.BA0652",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBN2A1N.BA0643",
+      "material": "Steel & Ceramic",
+      "colorCode": "#6ca927",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAZ101K.BA0842",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WBC131E.BA0649",
+      "material": "Steel",
+      "colorCode": "#e0c133",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "32 mm",
+      "name": "TAG Heuer Link"
+    },
+    {
+      "id": "WBP201F.BA0632",
+      "material": "Steel",
+      "colorCode": "#f48406",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "43 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "CBK221H.FC8317",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "CBG2A1Z.FT6157",
+      "material": "Steel & Ceramic",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "45 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBL2115.FC6494",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "Blue",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Monaco "
+    },
+    {
+      "id": "WBE511A.BA0650",
+      "material": "Steel",
+      "colorCode": "#172483",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "42 mm",
+      "name": "TAG Heuer Autavia"
+    },
+    {
+      "id": "WBP1111.BA0627",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "CBN2013.FC6483",
+      "material": "Steel",
+      "colorCode": "#ffffff",
+      "color": "Brown",
+      "movement": "Automatic Chronograph",
+      "size": "42 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBG2A11.BA0654",
+      "material": "Steel & Ceramic",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "45 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBN2013.BA0640",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBN2012.BA0640",
+      "material": "Steel",
+      "colorCode": "#172483",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBP1450.BA0622",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "30 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "CAR201T.FC6406",
+      "material": "Steel & Ceramic",
+      "colorCode": "",
+      "color": "Blue",
+      "movement": "MSP30023",
+      "size": "43 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WAZ1118.BA0875",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WAR201A.BA0723",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CAZ201B.FC6487",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Formula 1 x Senna"
+    },
+    {
+      "id": "CBK2115.BA0715",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBN2A1M.FC6526",
+      "material": "Steel & Ceramic",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "CBL2113.FC6177",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Monaco"
+    },
+    {
+      "id": "CBL2113.BA0644",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Monaco"
+    },
+    {
+      "id": "CBS5010.FC6543",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "Blue",
+      "movement": "Chronograph Tourbillon",
+      "size": "42 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBN2012.FC6502",
+      "material": "Steel",
+      "colorCode": "#172483",
+      "color": "Blue",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "CAZ101Y.BA0842",
+      "material": "Steel",
+      "colorCode": "#e22121",
+      "color": "No Color",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WBP2010.FT6198",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "Blue",
+      "movement": "Automatic Watch",
+      "size": "43 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "CBL2111.BA0644",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Monaco"
+    },
+    {
+      "id": "WBD2321.BB0320",
+      "material": "Steel",
+      "colorCode": "#e0c133",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "32 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "CBL2114.FC6486",
+      "material": "Steel",
+      "colorCode": "#E22121",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer x Grand Prix De Monaco Historique"
+    },
+    {
+      "id": "WBD1320.BB0320",
+      "material": "Steel",
+      "colorCode": "#e0c133",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "32 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "CBL2182.FT6235",
+      "material": "Titanium",
+      "colorCode": "#009de2",
+      "color": "Blue",
+      "movement": "Automatic Chronograph",
+      "size": "39 mm",
+      "name": "TAG Heuer Monaco"
+    },
+    {
+      "id": "CAZ201D.BA0633",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WBP2414.BA0622",
+      "material": "Steel",
+      "colorCode": "#e22121",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "30 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WBN2112.BA0639",
+      "material": "Steel",
+      "colorCode": "#172483",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "39 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "CBN2A1F.BA0643",
+      "material": "Steel & Ceramic",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Carrera  "
+    },
+    {
+      "id": "CBN2A1A.FC6537",
+      "material": "Steel & Ceramic",
+      "colorCode": "#009de2",
+      "color": "Brown",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBP2411.BA0622",
+      "material": "Steel",
+      "colorCode": "#172483",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "30 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "CAZ201E.FC6517",
+      "material": "Steel & Ceramic",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WBK1318.BA0652",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBN2A1F.FC6492",
+      "material": "Steel & Ceramic",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "CBG2050.FC6426",
+      "material": "Steel and Gold",
+      "colorCode": "#e0c133",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBN2411.BA0621",
+      "material": "Steel",
+      "colorCode": "#172483",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "29 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBC1312.BA0600",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "32 mm",
+      "name": "TAG Heuer Link"
+    },
+    {
+      "id": "CBN201C.FC6542",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "42 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "CAZ101AM.FT8054",
+      "material": "Steel",
+      "colorCode": "#fee800",
+      "color": "Yellow",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WAW131A.FC6177",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Quartz Watch",
+      "size": "37 mm",
+      "name": "TAG Heuer Monaco"
+    },
+    {
+      "id": "WBN2016.BA0640",
+      "material": "Steel",
+      "colorCode": "#009de2",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "41 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBP1112.FT6199",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Quartz Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "CBN2010.BA0642",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Chronograph",
+      "size": "42 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "WBP2151.FT6199",
+      "material": "Steel and Gold",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer "
+    },
+    {
+      "id": "WBP2110.BA0627",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WBC1310.BA0600",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "32 mm",
+      "name": "TAG Heuer Link"
+    },
+    {
+      "id": "WBP201A.FT6197",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Watch",
+      "size": "43 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "CAZ101AN.FT8055",
+      "material": "Steel",
+      "colorCode": "#e22121",
+      "color": "Red",
+      "movement": "Quartz Chronograph",
+      "size": "43 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "CAZ2011.FT8024",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "44 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "WBN2414.BA0621",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "29 mm",
+      "name": "TAG Heuer Carrera "
+    },
+    {
+      "id": "WBK1311.FC8258",
+      "material": "Steel",
+      "colorCode": "#9a5723",
+      "color": "Brown",
+      "movement": "Quartz Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBN2012.FC6483",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "Brown",
+      "movement": "Automatic Chronograph",
+      "size": "42 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CBP1110.BA0627",
+      "material": "Steel",
+      "colorCode": "#000000",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "40 mm",
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "id": "WBJ1419.BA0664",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Quartz Watch",
+      "size": "32 mm",
+      "name": "TAG Heuer Formula 1"
+    },
+    {
+      "id": "CBG2A50.FC6450",
+      "material": "Steel and Gold",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "45 mm",
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "id": "CR5090.FN6001",
+      "material": "Carbon",
+      "colorCode": "#000000",
+      "color": "Black",
+      "movement": "Automatic Chronograph",
+      "size": "42 mm",
+      "name": "TAG Heuer Monza "
+    },
+    {
+      "id": "WBK2316.BA0652",
+      "material": "Steel",
+      "colorCode": "#9a9a9a",
+      "color": "No Color",
+      "movement": "Automatic Watch",
+      "size": "36 mm",
+      "name": "TAG Heuer Carrera"
+    }
+   ]
