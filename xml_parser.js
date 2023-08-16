@@ -198,6 +198,17 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 										return acc;
 									}, {}) || {};
 
+								let subCollections = elm["custom-attributes"] && elm["custom-attributes"][0] && elm["custom-attributes"][0]["custom-attribute"]
+									.filter((el) => {
+										return el["$"] && el["$"]["attribute-id"] && el["$"]["attribute-id"] === "ATT_SUB_COLLECTION" && el["$"]["xml:lang"];
+									}).reduce((acc, el) => {
+										const key = el["$"] && el["$"]["xml:lang"] || "";
+										value = el["_"] || "";
+										acc[key] = value;
+										return acc;
+									}, {}) || {};
+
+
 								let size = elm["custom-attributes"] && elm["custom-attributes"][0] && elm["custom-attributes"][0]["custom-attribute"]
 									.filter((el) => {
 										return el["$"] && el["$"]["attribute-id"] && el["$"]["attribute-id"] === "ATT_WATCH_SIZE";
@@ -205,7 +216,7 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 								size = size[0] && size[0]["_"] || "";
 								console.log(size)
 
-								return { id, images, names, materials, colorCode, colors, movements, size, straps };
+								return { id, images, names, materials, colorCode, colors, movements, size, straps, subCollections };
 							})
 
 						//merge the product data and the price data
@@ -252,7 +263,12 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 								}) && finalProductData.find((el) => {
 									return el.id === id
 								}).straps || {};
-								return { ...elm, names, images, materials, colorCode, colors, movements, size, straps };
+								let subCollections = finalProductData.find((el) => {
+									return el.id === id
+								}) && finalProductData.find((el) => {
+									return el.id === id
+								}).subCollections || {};
+								return { ...elm, names, images, materials, colorCode, colors, movements, size, straps, subCollections };
 
 							})
 							.map((elm) => {
@@ -277,7 +293,7 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 								//remove the full object if size === "";
 								//remove the full object if prices === []
 
-								let { colorCode, colors, materials, movements, names, images, size, prices, straps, ...rest } = elm;
+								let { colorCode, colors, materials, movements, names, images, size, prices, straps, subCollections, ...rest } = elm;
 								if (colorCode === "" || Object.keys(colors).length === 0 || Object.keys(materials).length === 0 || Object.keys(movements).length === 0 || Object.keys(names).length === 0 || images.length === 0 || size === "" || prices.length === 0 || Object.keys(straps).length === 0) {
 									return null;
 								}
@@ -338,7 +354,15 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 									}
 								});
 
-								return { ...elm, names: newNames, materials: newMaterials, colors: newColors, movements: newMovements, prices: newPrices, straps: newStrap };
+								let subCollections = elm.subCollections;
+								let newSubCollections = {};
+								Object.keys(subCollections).forEach((key) => {
+									if (acceptedLanguage.includes(key)) {
+										newSubCollections[key] = subCollections[key];
+									}
+								});
+
+								return { ...elm, names: newNames, materials: newMaterials, colors: newColors, movements: newMovements, prices: newPrices, straps: newStrap, subCollections: newSubCollections };
 							}).map((elm) => {
 								//color name for which color name is "No name". 
 								const colorCodeForNoName = [
