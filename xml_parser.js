@@ -214,7 +214,6 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 										return el["$"] && el["$"]["attribute-id"] && el["$"]["attribute-id"] === "ATT_WATCH_SIZE";
 									})
 								size = size[0] && size[0]["_"] || "";
-								console.log(size)
 
 								return { id, images, names, materials, colorCode, colors, movements, size, straps, subCollections };
 							})
