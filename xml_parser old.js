@@ -149,20 +149,7 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 
 								let images = elm.images && elm.images[0] && elm.images[0]["image-group"] && elm.images[0]["image-group"] && elm.images[0]["image-group"][0] && elm.images[0]["image-group"][0].image && elm.images[0]["image-group"][0].image.map((el) => {
 									return el["$"] && el["$"]["path"] || "";
-								})
-
-								//only keep the index[5] and index[1] images. Because these two images are the main images for the product. Remove the index[0] and index[2] and index[3] and index[4] images if there is any. when need to delete every time need to check the index number is available or not.	
-
-								if (images.length > 0) {
-									if (images[5]) {
-										images = [images[5], images[1]];
-									} else if (images[1]) {
-										images = [images[0], images[1]];
-									} else {
-										images = [images[0]];
-									}
-								}
-
+								});
 								// <custom-attribute attribute-id="ATT_COLOR_CODE">#000000</custom-attribute>
 								let colorCode = elm["custom-attributes"] && elm["custom-attributes"][0] && elm["custom-attributes"][0]["custom-attribute"]
 									.filter((el) => {
@@ -572,12 +559,7 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 									}
 								]
 
-
-								let element = colorCodeForNoName.find(color => color["colorCode"] === elm.colorCode);
-								if (elm.id === "CAZ1010.BA0842" || elm.id === "WAZ111A.BA0875") {
-									element = colorCodeForNoName.find(color => color["colorCode"] === "#000000");
-									console.log(element)
-								}
+								const element = colorCodeForNoName.find(color => color["colorCode"] === elm.colorCode);
 
 								let colorName = elm.colors;
 								const keys = ["de", "x-default", "en-GB", "en-US", "es", "fr", "it", "ja", "zh"];
@@ -590,16 +572,6 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 									}, {});
 								}
 								return { ...elm, colors: colorName }
-							}).map((elm) => {
-								if (elm.id === "CAZ1014.FT8028" || elm.id === "WBD1320.BB0320") {
-									if (elm.id === "WBD1320.BB0320") {
-										elm.images[0] = "TAG_Heuer_Aquaracer/WBD1322.BB0320/WBD1322.BB0320_0913.png"
-									} else {
-										elm.images[1] = "TAG_Heuer_Formula_1/CAZ1014.FT8028/CAZ1014.FT8028_03.png"
-									}
-								}
-
-								return elm;
 							});
 
 						console.log(resultData.length)
