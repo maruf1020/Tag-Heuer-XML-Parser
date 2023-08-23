@@ -576,7 +576,6 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 								let element = colorCodeForNoName.find(color => color["colorCode"] === elm.colorCode);
 								if (elm.id === "CAZ1010.BA0842" || elm.id === "WAZ111A.BA0875") {
 									element = colorCodeForNoName.find(color => color["colorCode"] === "#000000");
-									console.log(element)
 								}
 
 								let colorName = elm.colors;
@@ -598,7 +597,11 @@ fs.readFile('prices_watchfinder.xml', (err, data) => {
 										elm.images[1] = "TAG_Heuer_Formula_1/CAZ1014.FT8028/CAZ1014.FT8028_03.png"
 									}
 								}
-
+								return elm;
+							}).map((elm) => {
+								if (elm.straps["fr"] === "Plaquée") {
+									elm.straps["fr"] = "Or jaune plaqué";
+								}
 								return elm;
 							});
 
